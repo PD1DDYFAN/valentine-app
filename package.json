@@ -1,6 +1,6 @@
 {
   "name": "valentine-for-monika",
-  "homepage": ".",  // ← Add this
+  "homepage": ".",
   "private": true,
   "version": "0.0.0",
   "type": "module",
